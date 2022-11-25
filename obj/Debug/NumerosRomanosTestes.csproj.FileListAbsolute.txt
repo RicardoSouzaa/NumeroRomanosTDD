@@ -1,0 +1,7 @@
+D:\Dev\Ricardo\Testes\NumerosRomanosTestes\bin\Debug\NumerosRomanosTestes.exe.config
+D:\Dev\Ricardo\Testes\NumerosRomanosTestes\bin\Debug\NumerosRomanosTestes.exe
+D:\Dev\Ricardo\Testes\NumerosRomanosTestes\bin\Debug\NumerosRomanosTestes.pdb
+D:\Dev\Ricardo\Testes\NumerosRomanosTestes\obj\Debug\NumerosRomanosTestes.csproj.AssemblyReference.cache
+D:\Dev\Ricardo\Testes\NumerosRomanosTestes\obj\Debug\NumerosRomanosTestes.csproj.CoreCompileInputs.cache
+D:\Dev\Ricardo\Testes\NumerosRomanosTestes\obj\Debug\NumerosRomanosTestes.exe
+D:\Dev\Ricardo\Testes\NumerosRomanosTestes\obj\Debug\NumerosRomanosTestes.pdb
